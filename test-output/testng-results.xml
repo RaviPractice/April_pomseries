@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31529" started-at="2020-06-04T05:22:11Z" finished-at="2020-06-04T05:22:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31529" started-at="2020-06-04T05:22:11Z" finished-at="2020-06-04T05:22:43Z">
+      <class name="com.qa.hubspot.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="12116" started-at="2020-06-04T05:22:11Z" finished-at="2020-06-04T05:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTest()[pri:1, instance:com.qa.hubspot.tests.LoginPageTest@3bfdc050]" name="verifyLoginPageTest" duration-ms="5058" started-at="2020-06-04T05:22:23Z" finished-at="2020-06-04T05:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTest -->
+        <test-method status="PASS" signature="verifySignUpLinkTest()[pri:2, instance:com.qa.hubspot.tests.LoginPageTest@3bfdc050]" name="verifySignUpLinkTest" duration-ms="197" started-at="2020-06-04T05:22:28Z" finished-at="2020-06-04T05:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpLinkTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.hubspot.tests.LoginPageTest@3bfdc050]" name="loginTest" duration-ms="13191" started-at="2020-06-04T05:22:29Z" finished-at="2020-06-04T05:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.LoginPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="898" started-at="2020-06-04T05:22:42Z" finished-at="2020-06-04T05:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
